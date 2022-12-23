@@ -22,19 +22,8 @@ REQUIRED SECTIONS:
 OPTIONAL SECTIONS:
 - FAQ
 
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -94,8 +83,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Go trougth these steps to interact with the file.
@@ -104,7 +91,7 @@ To get a local copy up and running, follow these steps.
 
 ### You need to hace installed [git](https://git-scm.com/) and [GitHub](https://github.com/) in your local enviroment.
 
-- Open a Git Bash and execute: "git clone https://github.com/J2ZROMERO/Enumerable"
+- Open a Git Bash and execute: "git clone https://github.com/Ndorrh/Enumerable"
   
 ### Prerequisites
 
@@ -144,17 +131,7 @@ Example command:
 
  On VScode on windows Right click inside the editor when the file is open to run the code
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -176,7 +153,6 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -203,7 +179,6 @@ I would like to thank,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -212,8 +187,6 @@ I would like to thank,
   - Yes. Just Clone the repository and open it with VSCODE 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
