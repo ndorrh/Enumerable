@@ -42,14 +42,12 @@ After you're finished please remove all the comments and instructions!
 - [📖 \[Morse code message Decoder\] ](#-morse-code-message-decoder-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack Server side](#tech-stack-server-side)
-    - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -59,25 +57,32 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse code message Decoder] <a name="about-project"></a>
+# 📖 [Enumerable] <a name="about-project"></a>
 
-> This Application is use to decode morse code characters, entire words and morse code message it takes a string and return the corresponding character in upper case for example decode_char(".-") returns "A"), the corresponding word in upper case for example decode_word("-- -.--") returns "MY" and the corresponding message respectively.
+> This repository you can interact with all?, any? and  filter methods created.
 
-**[your_project__name]** Morse code message Decoder
+**[Enumerable]** Enumerable
+
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby
 
-### Tech Stack <a name="tech-stack">Server side</a>
+### Tech Stack <a name="tech-stack"></a>
 
-> Ruby
 
-<!-- Features -->
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+</details>
 
-### Key Features <a name="key-features"></a>
 
-- **[Method to decode Morse character]**
-- **[Method to decode morse word]**
-- **[Method to decode morse message]**
+<details>
+<summary>Interface tool</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">Viual Studio Code</a></li>
+  </ul>
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,31 +98,32 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Go trougth these steps to interact with the file.
+
 To get a local copy up and running, follow these steps.
 
+### You need to hace installed [git](https://git-scm.com/) and [GitHub](https://github.com/) in your local enviroment.
+
+- Open a Git Bash and execute: "git clone https://github.com/J2ZROMERO/Enumerable"
+  
 ### Prerequisites
 
 In order to run this project you need:
-- Ruby installed on your machine
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A [Ruby](https://www.ruby-lang.org/en/) istalled in your machine 
+- Use an editor installed. 
+    Example-  [Editor code](https://www.creativebloq.com/advice/best-code-editors)
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/ndorrh/Decode_a_Morse_code_message
+Clone this repository to your desired folder: https://github.com/ndorrh/Enumerable
 
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:my:ndorrh/enumerable.git
 ```
 --->
 
@@ -129,7 +135,7 @@ Open the cloned directory on Vscode
 Example command:
 
 ```sh
-  cd my-project
+  cd Enumerble
   gem install
 ```
 --->
@@ -146,35 +152,24 @@ Example command:
 ```
 --->
 
-### Run tests
-
-In the morse_code file Call any of the method and pass in a morse character or word or message depending on which method is called and right click then select run to execute the program
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **ABUBAKAR UMMAR**
-
-- GitHub: [@Haywayaheadshot](https://github.com/Haywayaheadshot)
-- Twitter: [@haywayalive](https://twitter.com/haywayalive)
-- LinkedIn: [Abubakar Ummar](https://www.linkedin.com/in/abubakar-ummar/)
-
 👤 **NDORRH OSWALD EBU**
 
 - GitHub: [ndorrh](https://github.com/ndorrh)
 - Twitter: [@NdorrhEbu](https://twitter.com/NdorrhEbu)
 - LinkedIn: [ndorrh](https://linkedin.com/in/ndorrhoswaldebu)
+
+
+👤 **ABUBAKAR UMMAR**
+
+- GitHub: [@Haywayaheadshot](https://github.com/Haywayaheadshot)
+- Twitter: [@haywayalive](https://twitter.com/haywayalive)
+- LinkedIn: [Abubakar Ummar](https://www.linkedin.com/in/abubakar-ummar/)
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -212,10 +207,6 @@ I would like to thank,
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[What is a morse Code]**
-
-  - Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs
-
 - **[Can I run This program On linux]**
 
   - Yes. Just Clone the repository and open it with VSCODE 
@@ -229,3 +220,4 @@ I would like to thank,
 This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
